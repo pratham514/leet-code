@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/pratham514/leet-code/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/pratham514/leet-code/tree/master/0016-3sum-closest) |
 | [0713-subarray-product-less-than-k](https://github.com/pratham514/leet-code/tree/master/0713-subarray-product-less-than-k) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/pratham514/leet-code/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,8 +28,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/pratham514/leet-code/tree/master/0713-subarray-product-less-than-k) |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/pratham514/leet-code/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/pratham514/leet-code/tree/master/0713-subarray-product-less-than-k) |
+## Hash Table
+|  |
+| ------- |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/pratham514/leet-code/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/pratham514/leet-code/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 <!---LeetCode Topics End-->
