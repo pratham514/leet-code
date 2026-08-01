@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/pratham514/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/pratham514/leet-code/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/pratham514/leet-code/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/pratham514/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/pratham514/leet-code/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Heap (Priority Queue)
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/pratham514/leet-code/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/pratham514/leet-code/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/pratham514/leet-code/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/pratham514/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pratham514/leet-code/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/pratham514/leet-code/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/pratham514/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
