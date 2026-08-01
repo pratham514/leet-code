@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/pratham514/leet-code/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/pratham514/leet-code/tree/master/0016-3sum-closest) |
+| [0202-happy-number](https://github.com/pratham514/leet-code/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pratham514/leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/pratham514/leet-code/tree/master/0202-happy-number) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/pratham514/leet-code/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Heap (Priority Queue)
 |  |
@@ -56,4 +58,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/pratham514/leet-code/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/pratham514/leet-code/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
