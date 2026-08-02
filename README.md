@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pratham514/leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/pratham514/leet-code/tree/master/0022-generate-parentheses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/pratham514/leet-code/tree/master/0095-unique-binary-search-trees-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratham514/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/pratham514/leet-code/tree/master/0877-stone-game) |
 ## Math
@@ -118,8 +119,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pratham514/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/pratham514/leet-code/tree/master/0022-generate-parentheses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/pratham514/leet-code/tree/master/0095-unique-binary-search-trees-ii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/pratham514/leet-code/tree/master/0877-stone-game) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/pratham514/leet-code/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/pratham514/leet-code/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/pratham514/leet-code/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
