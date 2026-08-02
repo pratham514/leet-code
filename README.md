@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/pratham514/leet-code/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratham514/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0713-subarray-product-less-than-k](https://github.com/pratham514/leet-code/tree/master/0713-subarray-product-less-than-k) |
+| [0877-stone-game](https://github.com/pratham514/leet-code/tree/master/0877-stone-game) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/pratham514/leet-code/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Two Pointers
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/pratham514/leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/pratham514/leet-code/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratham514/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/pratham514/leet-code/tree/master/0877-stone-game) |
 ## Math
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/pratham514/leet-code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pratham514/leet-code/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/pratham514/leet-code/tree/master/0202-happy-number) |
+| [0877-stone-game](https://github.com/pratham514/leet-code/tree/master/0877-stone-game) |
 ## Trie
 |  |
 | ------- |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pratham514/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/pratham514/leet-code/tree/master/0022-generate-parentheses) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/pratham514/leet-code/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
