@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/pratham514/leet-code/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/pratham514/leet-code/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/pratham514/leet-code/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/pratham514/leet-code/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratham514/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0713-subarray-product-less-than-k](https://github.com/pratham514/leet-code/tree/master/0713-subarray-product-less-than-k) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/pratham514/leet-code/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/pratham514/leet-code/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/pratham514/leet-code/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/pratham514/leet-code/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/pratham514/leet-code/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/pratham514/leet-code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pratham514/leet-code/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pratham514/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/pratham514/leet-code/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/pratham514/leet-code/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/pratham514/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/pratham514/leet-code/tree/master/0389-find-the-difference) |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pratham514/leet-code/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pratham514/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/pratham514/leet-code/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/pratham514/leet-code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/pratham514/leet-code/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/pratham514/leet-code/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/pratham514/leet-code/tree/master/0387-first-unique-character-in-a-string) |
