@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pratham514/leet-code/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pratham514/leet-code/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratham514/leet-code/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pratham514/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0713-subarray-product-less-than-k](https://github.com/pratham514/leet-code/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/pratham514/leet-code/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/pratham514/leet-code/tree/master/0977-squares-of-a-sorted-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pratham514/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/pratham514/leet-code/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/pratham514/leet-code/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pratham514/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/pratham514/leet-code/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/pratham514/leet-code/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/pratham514/leet-code/tree/master/0680-valid-palindrome-ii) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pratham514/leet-code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0713-subarray-product-less-than-k](https://github.com/pratham514/leet-code/tree/master/0713-subarray-product-less-than-k) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pratham514/leet-code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sliding Window
