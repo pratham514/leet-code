@@ -12,10 +12,8 @@ public:
             }
          }
          int start =j;
-        while(j<t.length()){
-            s.push_back(t[j]);
-            j++;
-        }
+        
+        
         return t.length() - start;
     }
 };
