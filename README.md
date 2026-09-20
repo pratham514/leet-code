@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/pratham514/leet-code/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/pratham514/leet-code/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/pratham514/leet-code/tree/master/0977-squares-of-a-sorted-array) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/pratham514/leet-code/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pratham514/leet-code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/pratham514/leet-code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/pratham514/leet-code/tree/master/0389-find-the-difference) |
 | [0680-valid-palindrome-ii](https://github.com/pratham514/leet-code/tree/master/0680-valid-palindrome-ii) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/pratham514/leet-code/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/pratham514/leet-code/tree/master/0680-valid-palindrome-ii) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/pratham514/leet-code/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Quicksort
 |  |
 | ------- |
