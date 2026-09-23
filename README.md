@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/pratham514/leet-code/tree/master/0713-subarray-product-less-than-k) |
 | [0877-stone-game](https://github.com/pratham514/leet-code/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/pratham514/leet-code/tree/master/0977-squares-of-a-sorted-array) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/pratham514/leet-code/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pratham514/leet-code/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/pratham514/leet-code/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 ## Two Pointers
